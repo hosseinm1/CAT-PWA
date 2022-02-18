@@ -3,9 +3,9 @@ var cacheFiles = [
     'index.html',
     'products.js',
     'petstore.webmanifest',
-    'images/cat-1.jpeg',
-    'images/cat-2.jpeg',
-    'images/cat-3.jpeg',
+    'images/cat-1.jpg',
+    'images/cat-2.jpg',
+    'images/cat-3.jpg',
     'images/icon-512.png'
     
 ];
